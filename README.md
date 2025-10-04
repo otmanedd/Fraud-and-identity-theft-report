@@ -28,7 +28,8 @@ Das Projekt zeigt, wie man Karten, Marker und DataFrames kombiniert, um datenget
 ## How to run this app
 ```
 git clone https://github.com/otmanedd/Fraud-and-identity-theft-report.git
-   cd Fraud-and-identity-theft-report
+   cd ~/streamlit-map-dashboard/Fraud-and-identity-theft-report/Fraud-and-identity-theft-report
+
 ```
 ## Virtuelle Umgebung erstellen und aktivieren:
 ```
@@ -39,6 +40,8 @@ source .venv/bin/activate  # Auf Windows: .venv\Scripts\activate
 
 ## Abhängigkeiten installieren:
 ```
+pip install --upgrade pip setuptools wheel
+pip install streamlit folium streamlit_folium pandas
 pip install -r requirements.txt
 
 ```
