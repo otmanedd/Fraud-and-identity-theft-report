@@ -44,6 +44,8 @@ source .venv/bin/activate
 ## Abhängigkeiten installieren:
 ```
 pip install --upgrade pip setuptools wheel
+pip install pandas==2.2.2
+
 pip install streamlit folium streamlit_folium pandas
 pip install -r requirements.txt
 
@@ -55,8 +57,16 @@ streamlit run streamlit_app.py
 
 ```
 
+## Lizenz
+MIT License
+
+Copyright (c) 2025 Otmane Dyaf
+
+Permission is hereby granted, free of charge, to use, copy, modify, and distribute this software, without warranty, with the above copyright notice included.
+
+
 ## Autor
-Otmane Dya
+Otmane Dyaf
 
 
 
