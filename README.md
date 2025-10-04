@@ -35,6 +35,9 @@ git clone https://github.com/otmanedd/Fraud-and-identity-theft-report.git
 ```
 python -m venv .venv
 source .venv/bin/activate  # Auf Windows: .venv\Scripts\activate
+python3 -m venv .venv
+source .venv/bin/activate
+
 
 ```
 
