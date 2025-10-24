@@ -1,7 +1,7 @@
 # Interactive Map Dashboard with Python and Streamlit
 A python streamlit dashboard app which visualizes data in an interactive folium map. The dashboard demonstrates *Fraud and Identity Theft Report* published by [Federal Trade Commission](https://public.tableau.com/app/profile/federal.trade.commission/viz/FraudandIDTheftMaps/AllReportsbyState).
 
-
+## This project was developed locally
 
 ## Screenshot
 ![(screenshot)](./screenshot.png?raw=true)
